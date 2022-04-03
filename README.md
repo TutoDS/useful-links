@@ -6,6 +6,8 @@
 <h2>Content</h2>
 
 -   [UI & UX](#ui---ux)
+    -   [Ideas](#ideas)
+-   [Mockups](#mockups)
 -   [Image(s)](#image-s-)
     -   [Remove Background](#remove-background)
     -   [PNG Images](#png-images)
@@ -20,14 +22,47 @@
 Links related with **UI & UX** and tools, like **Adobe XD**, **Figma**, ...
 
 -   [UI Sources](https://www.uisources.com/home)
+-   [UpLabs](https://www.uplabs.com)
+    -   **Note:** on this link you can found other files (like Photoshop, Illustrator and more)
+-   [UI8](https://ui8.net/)
+    -   **Note:** on this link you can found other files (like Photoshop, Illustrator and more)
+-   [DailyUI](https://dailyui.com)
 -   [Design Resources](https://designresources.io/)
 -   [UI Hut](https://uihut.com)
 -   [XD File](https://xdfile.com)
+-   [DesignerMill](https://www.designermill.com)
+    -   **Note:** on this link you can found other files (like Photoshop, fonts and more)
 -   [Freebie Supply](https://freebiesupply.com)
-    -   **Note:** on this link you can found other files (like Photoshop, PowerPoint templates and more)
 -   [XD Guru](https://www.xdguru.com)
 -   [UI Sources](https://www.uisources.com)
 -   [UI Store](https://www.uistore.design)
+-   [Lapa Freebies](https://www.lapa.ninja/freebies/)
+-   [UX Crush](https://www.uxcrush.com)
+
+
+<h3 style="font-weight: 300; font-size: 1.25rem">Ideas</h3>
+
+- [Pinterest](http://pinterest.pt)
+- [Behance](http://behance.net)
+- [Dribble](http://dribbble.com)
+- [Fake Clients](https://fakeclients.com)
+- [Awwwards](https://www.awwwards.com)
+- [Site Inspire](https://www.siteinspire.com)
+- [Web Design Inspiration](https://www.webdesign-inspiration.com)
+- [Mobbin](https://mobbin.design)
+- [ScreenLane](https://screenlane.com/)
+- [Ecomm.Design](https://ecomm.design)
+- [Lapa](https://www.lapa.ninja)
+- [SiteSee](https://sitesee.co)
+- [OnePageLove](https://onepagelove.com)
+- [Collect UI](https://collectui.com)
+
+<br/>
+
+<h2 style="font-weight: 300">Mockups</h2>
+
+-   [Design Facebook](http://design.facebook.com)
+
 
 <br/>
 <h2 style="font-weight: 300">Image(s)</h2>
@@ -73,3 +108,5 @@ Links related with **UI & UX** and tools, like **Adobe XD**, **Figma**, ...
 
 <br/>
 <h2 style="font-weight: 300">Code</h2>
+
+- [Headless UI](https://headlessui.dev)
