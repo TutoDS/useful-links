@@ -105,6 +105,7 @@ Links related with **UI & UX** and tools, like **Adobe XD**, **Figma**, ...
 -   [Icon Store](https://iconstore.co/)
 -   [Icon Monstr](https://iconmonstr.com/)
 -   [Shape](https://shape.so/browse)
+-   [Phosphor Icons](https://phosphoricons.com/)
 
 <br/>
 <h2 style="font-weight: 300">Code</h2>
